@@ -1,5 +1,5 @@
 <!-- Banner de Boas-Vindas -->
-<h1 align="center">Oiii! 👋 Eu sou a Amanda Barbosa</h1>
+<h1 align="center">Oiii! Eu sou a Amanda Barbosa</h1>
 <p align="center">
   <i>Desenvolvedora apaixonada por soluções e aprendizagem.</i>
 </p>
@@ -16,7 +16,7 @@
 - 🎓 **Formação:** Ciência da Computação - PUC Goiás (2024–2028)
 - 💼 **Atuação:** Full Stack Developer
 - 🧠 **Interesses:** Clean Architecture, Microsserviços, APIs, Dev Web & Backend <!-- Comunicação Assíncrona -->
-- 🛠️ **Tecnologias favoritas:** PHP, Laravel, C, SQL & BOOTSTRAP <!-- RabbitMQ  -->
+- 🛠️ **Tecnologias favoritas:** PHP, Laravel, C, SQL & Boostrap <!-- RabbitMQ  -->
 - 🌱 **Sempre aprendendo:** Novas linguagens, arquitetura de software e boas práticas de código
 
 ---
