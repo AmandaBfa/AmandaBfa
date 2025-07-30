@@ -21,6 +21,8 @@
 
 ---
 
+<p align="center">
+  
 ## Tech Stack
 
 ### 👩‍💻 Linguagens
@@ -45,6 +47,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-F08705?style=flat&logo=data&logoColor=white)
+
+</p>
 
 ### 🧠 Arquiteturas & Padrões
 
