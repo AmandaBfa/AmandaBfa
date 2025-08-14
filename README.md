@@ -1,11 +1,13 @@
 <!-- Banner de Boas-Vindas -->
-<h1 align="center">Oiii! Eu sou a Amanda Barbosa</h1>
+<h1 align="center">Oii! Me chamo Amanda Barbosa</h1>
 <p align="center">
-  <i>Desenvolvedora apaixonada por soluções e aprendizagem.</i>
+  <i>Desenvolvedora apaixonada por criar soluções e aprender constantemente.</i>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5733&lines=Full+Stack+Developer;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Coisas+Novas)](https://git.io/typing-svg)
+
 <p align="center">
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Estudante+de+Ciência+da+Computação+🎓;Apaixonada+por+tecnologia+🚀;Sempre+em+busca+de+aprender+novas+coisas+📚" alt="Typing SVG" /> -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -15,14 +17,12 @@
 - 🌍 **Local:** Goiás, Brasil
 - 🎓 **Formação:** Ciência da Computação - PUC Goiás (2024–2028)
 - 💼 **Atuação:** Full Stack Developer
-- 🧠 **Interesses:** Clean Architecture, Microsserviços, APIs, Dev Web & Backend <!-- Comunicação Assíncrona -->
-- 🛠️ **Tecnologias favoritas:** PHP, Laravel, C, SQL & Boostrap <!-- RabbitMQ  -->
+- 🧠 **Interesses:** Clean Architecture, Microsserviços, APIs, Dev Web & Backend
+- 🛠️ **Tecnologias favoritas:** PHP, Laravel, C, SQL & Boostrap
 - 🌱 **Sempre aprendendo:** Novas linguagens, arquitetura de software e boas práticas de código
 
 ---
 
-<p align="center">
-  
 ## Tech Stack
 
 ### 👩‍💻 Linguagens
@@ -47,8 +47,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-F08705?style=flat&logo=data&logoColor=white)
-
-</p>
 
 ### 🧠 Arquiteturas & Padrões
 
@@ -76,6 +74,8 @@
 - 🐙 **GitHub:** [github.com/AmandaBfa](https://github.com/AmandaBfa)
 
 ---
+
+![Visitantes](https://komarev.com/ghpvc/?username=AmandaBfa&label=Visitantes&color=blueviolet)
 
 <p align="center">
   💻 Feito com 💙 por <strong>Amanda Barbosa</strong> ☕
