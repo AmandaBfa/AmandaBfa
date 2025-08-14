@@ -4,7 +4,7 @@
   <i>Desenvolvedora apaixonada por criar soluções e aprender constantemente.</i>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5733&lines=Full+Stack+Developer;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Coisas+Novas)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5733&lines=Full+Stack+Developer;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Coisas+Novas)](https://git.io/typing-svg) -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
@@ -20,6 +20,8 @@
 - 🧠 **Interesses:** Clean Architecture, Microsserviços, APIs, Dev Web & Backend
 - 🛠️ **Tecnologias favoritas:** PHP, Laravel, C, SQL & Boostrap
 - 🌱 **Sempre aprendendo:** Novas linguagens, arquitetura de software e boas práticas de código
+
+![Visitantes](https://komarev.com/ghpvc/?username=AmandaBfa&label=Visitantes&color=blueviolet)
 
 ---
 
@@ -74,8 +76,6 @@
 - 🐙 **GitHub:** [github.com/AmandaBfa](https://github.com/AmandaBfa)
 
 ---
-
-![Visitantes](https://komarev.com/ghpvc/?username=AmandaBfa&label=Visitantes&color=blueviolet)
 
 <p align="center">
   💻 Feito com 💙 por <strong>Amanda Barbosa</strong> ☕
