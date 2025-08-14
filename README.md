@@ -6,7 +6,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5733&lines=Full+Stack+Developer;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Coisas+Novas)](https://git.io/typing-svg) -->
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
 </p>
 
