@@ -21,7 +21,7 @@
 - 🛠️ **Tecnologias favoritas:** PHP, Laravel, C, SQL & Boostrap
 - 🌱 **Sempre aprendendo:** Novas linguagens, arquitetura de software e boas práticas de código
 
-![Visitantes](https://komarev.com/ghpvc/?username=AmandaBfa&label=Visitantes&color=blueviolet)
+<!-- ![Visitantes](https://komarev.com/ghpvc/?username=AmandaBfa&label=Visitantes&color=blueviolet) -->
 
 ---
 
