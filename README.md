@@ -11,7 +11,6 @@
 - **Formação:** Ciência da Computação - PUC Goiás (2024–2028)
 - **Atuação:** Full Stack Developer
 - **Interesses:** Clean Architecture, Microsserviços, APIs, Dev Web & Backend
-- **Tecnologias favoritas:** PHP, Laravel, C, SQL & Boostrap
 
 ---
 
@@ -47,17 +46,6 @@
 - MVC
 - API REST
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaBfa&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandaBfa&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
-</p>
 ---
 
 ## Contato
