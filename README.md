@@ -1,33 +1,23 @@
-<!-- Banner de Boas-Vindas -->
-<h1 align="center">Oii! Me chamo Amanda Barbosa</h1>
+<h1 align="center">Olá, eu sou a Amanda Barbosa!</h1>
 <p align="center">
-  <i>Desenvolvedora apaixonada por criar soluções e aprender constantemente.</i>
-</p>
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5733&lines=Full+Stack+Developer;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Coisas+Novas)](https://git.io/typing-svg) -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
+  <i>Desenvolvedora Full Stack em formação, com foco em desenvolvimento web e backend, sempre buscando aprender novas tecnologias e boas práticas de software.</i>
 </p>
 
 ---
 
 ## Sobre mim
 
-- 🌍 **Local:** Goiás, Brasil
-- 🎓 **Formação:** Ciência da Computação - PUC Goiás (2024–2028)
-- 💼 **Atuação:** Full Stack Developer
-- 🧠 **Interesses:** Clean Architecture, Microsserviços, APIs, Dev Web & Backend
-- 🛠️ **Tecnologias favoritas:** PHP, Laravel, C, SQL & Boostrap
-- 🌱 **Sempre aprendendo:** Novas linguagens, arquitetura de software e boas práticas de código
-
-<!-- ![Visitantes](https://komarev.com/ghpvc/?username=AmandaBfa&label=Visitantes&color=blueviolet) -->
+- **Local:** Brazil
+- **Formação:** Ciência da Computação - PUC Goiás (2024–2028)
+- **Atuação:** Full Stack Developer
+- **Interesses:** Clean Architecture, Microsserviços, APIs, Dev Web & Backend
+- **Tecnologias favoritas:** PHP, Laravel, C, SQL & Boostrap
 
 ---
 
 ## Tech Stack
 
-### 👩‍💻 Linguagens
+### Linguagens
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -36,31 +26,31 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### 🧩 Frameworks & Ferramentas
+### Frameworks & Ferramentas
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Slim](https://img.shields.io/badge/Slim-74B1B7?style=flat&logo=slim&logoColor=white)
+<!-- ![Slim](https://img.shields.io/badge/Slim-74B1B7?style=flat&logo=slim&logoColor=white) -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-F08705?style=flat&logo=data&logoColor=white)
 
-### 🧠 Arquiteturas & Padrões
+### Arquiteturas & Padrões
 
 - Clean Architecture
 - Microsserviços
-- POO (Programação Orientada a Objetos)
+- POO
 - MVC
 - API REST
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaBfa&layout=compact&theme=github_dark">
@@ -68,14 +58,8 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
-- 📧 **E-mail:** [amandinhabfa@gmail.com](mailto:amandinhabfa@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/AmandaBfa](https://www.linkedin.com/in/AmandaBfa)
-- 🐙 **GitHub:** [github.com/AmandaBfa](https://github.com/AmandaBfa)
-
----
-
-<p align="center">
-  💻 Feito com 💙 por <strong>Amanda Barbosa</strong> ☕
-</p>
+- **E-mail:** [amandinhabfa@gmail.com](mailto:amandinhabfa@gmail.com)
+- **LinkedIn:** [linkedin.com/in/AmandaBfa](https://www.linkedin.com/in/AmandaBfa)
+- **GitHub:** [github.com/AmandaBfa](https://github.com/AmandaBfa)
