@@ -1,43 +1,55 @@
-# 01000001 | Amanda Barbosa Ferreira Agapito
-`Computer Science Student @ PUC Goiás`
-
----
-
-### $ profile --verbose
-Estudante de Ciência da Computação (2024–2028) e profissional de Infraestrutura & Suporte na Affego. Focada no desenvolvimento de sistemas robustos, explorando a fundo o ecossistema Laravel e arquiteturas escaláveis.
-
-- **Main focus:** Backend Development & Software Architecture
-- **Current activity:** Building management systems with FilamentPHP & Tailwind.
-- **Interests:** AI, Cybersecurity & Graph Theory.
-- **Location:** Goiânia, Brazil
-
----
-
-### $ stack --list
-**Languages & Core**
-> PHP, JavaScript, SQL (MySQL/Server/Oracle), Java, C
-
-**Frameworks & Ecosystem**
-> Laravel, FilamentPHP, Tailwind CSS, Bootstrap
-
-**DevOps & Tools**
-> Git, GitHub, Infrastructure Support
-
----
-
-### $ stats --display
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandaBfa&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaBfa&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7" height="150" />
-</p>
-
----
-
-### $ contact --info
-- [LinkedIn](https://www.linkedin.com/in/AmandaBfa)
-- [Email](mailto:amandinhabfa@gmail.com)
-
----
+<h1 align="center">Olá, eu sou a Amanda Barbosa!</h1>
 <p align="center">
-  <code>Console.log("Continuous improvement is better than delayed perfection.")</code>
+  <i>Desenvolvedora Full Stack em formação, com foco em desenvolvimento web e backend, sempre buscando aprender novas tecnologias e boas práticas de software.</i>
 </p>
+
+---
+
+## Sobre mim
+
+- **Local:** Brazil
+- **Formação:** Ciência da Computação - PUC Goiás (2024–2028)
+- **Atuação:** Full Stack Developer
+- **Interesses:** Clean Architecture, Microsserviços, APIs, Dev Web & Backend
+
+---
+
+## Tech Stack
+
+### Linguagens
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### Frameworks & Ferramentas
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-F08705?style=flat&logo=data&logoColor=white)
+
+### Arquiteturas & Padrões
+
+- Clean Architecture
+- Microsserviços
+- POO
+- MVC
+- API REST
+
+---
+
+## Contato
+
+- **E-mail:** [amandinhabfa@gmail.com](mailto:amandinhabfa@gmail.com)
+- **LinkedIn:** [linkedin.com/in/AmandaBfa](https://www.linkedin.com/in/AmandaBfa)
+- **GitHub:** [github.com/AmandaBfa](https://github.com/AmandaBfa)
