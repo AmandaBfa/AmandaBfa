@@ -50,8 +50,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandaBfa&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub de Amanda" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaBfa&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandaBfa&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Amanda" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaBfa&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 <br />
